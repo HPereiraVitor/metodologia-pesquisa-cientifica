@@ -2,7 +2,7 @@
 Projeto de Metodologia da Pesquisa Científica - Banco de Dados - Fatec
 
 # Problema
-Falta de Sistema mobile de organização e controles no geral para biblioteca.
+Falta de Sistema mobile de organização e controles em geral para bibliotecas.
 
 # Motivação
 A falta de sistema mobile onde o usuário se cadastra e consegue ter o controle de suas locações implica na maximização da falta de organização de uma biblioteca, como atrasos, perdas, sumiços e etc.
