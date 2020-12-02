@@ -16,7 +16,9 @@ através da disponibilidade de espaço e material para busca da socialização d
   O problema das pessoas acabarem optando por pesquisas e buscas online ao invés de utilizar bibliotecas como ferramenta de auxílio na geração de conhecimento é justificado pela "dificuldade" de se ir e encontrar o produto desejedo e/ou que atenda as necessidades.
 
 # Proposta
-  Criação de uma aplicação da qual faz um controle de livros disponíveis e livros que o usuário alugou, informações da locação, como data de devolução, títulos alugados e se por ventura aconteça de atrasos, o acesso ao valor da taxa a pagar até o momento atual (incluindo o valor por dia, dias atrasos e etc).
+  Com o problema dado pelo crescimento tecnológico, foi pensado em fazer um aplicativo da qual é implementado em uma determinada biblioteca e seja "personalizada" e adaptada para as necessidades e atividades propostas por tal. O aplicativo irá fornecer um catálogo com todos os livros da biblioteca (Informando dados como editora, autor(es), unidades disponíveis, etc), informando se está ou não disponível, caso não esteja, citar a data prevista para o retorno do livro.
+  
+  Tendo concluído o cadastro de livros disponibilizados pela biblioteca, o usuário poderá fazer o cadastro de seu perfil, após isso estará possibilitado de alugar algum livro, assim que uma locação é feita o aplicativo diminui a unidade do livro no catálogo ou deixa indisponivel caso não tenha mais unidades. O usuário poderá ter controle de livros disponíveis, podendo escolher os livros de sua preferencia para o aplicativo notificar quando ficar disponível, checar em seu perfil títulos alugados, data de devolução proposto por cada alocação e caso ocorra o atraso na devolução o usuário será notificado e poderá ter acesso ao valor da taxa de atraso a pagar até o momento atual, incluindo o valor acrescentado por dia, dias atrasados, valor total e etc.
 
 - Referências:
   
