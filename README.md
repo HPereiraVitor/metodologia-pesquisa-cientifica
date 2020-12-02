@@ -2,7 +2,7 @@
 Projeto de Metodologia da Pesquisa Científica - Banco de Dados - Fatec
 
 # Problema
-  Falta de Sistema mobile de organização e controles em geral para bibliotecas.
+  Falta de Sistema mobile de organização e controles em geral para bibliotecas, causando assim a queda no uso popular das bibliotecas em geral, desvalorizando o serviço de auxílio a geração de conhecimento para a comunidade acadêmica e na preservação da produção intectual popular.
 
 # Motivação
   Nas últimas décadas, têm ocorrido tranformações pontuais na sociedade, fruto do crescimento informacional, tecnológico e na facilidade de acesso aos diversos temas e dados. Biblioteca, como prestadoras de serviços para a comunidade acadêmica, é um setor que deve se adaptar às constantes mudanças, sem alterar seu intuinto de auxiliar a geração de conhecimento, dando suporte às atividades de ensino e pesquisas no geral, além de ter como finalidade social, a preservação da produção intelectual em qualquer área, acrescentando conteúdo às atividades profissionais, pessoais e sociais, agregando assim valor a seus produtos.
