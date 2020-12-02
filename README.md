@@ -19,3 +19,4 @@ através da disponibilidade de espaço e material para busca da socialização d
 
 - Referências:
   https://www.scielo.br/pdf/tinf/v27n1/0103-3786-tinf-27-01-00059.pdf
+  https://www.scielo.br/pdf/pci/v19n1/10.pdf
