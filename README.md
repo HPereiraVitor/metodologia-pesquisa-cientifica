@@ -18,5 +18,7 @@ através da disponibilidade de espaço e material para busca da socialização d
   Criação de uma aplicação da qual faz um controle de livros disponíveis e livros que o usuário alugou, informações da locação, como data de devolução, títulos alugados e se por ventura aconteça de atrasos, o acesso ao valor da taxa a pagar até o momento atual (incluindo o valor por dia, dias atrasos e etc).
 
 - Referências:
+  
   https://www.scielo.br/pdf/tinf/v27n1/0103-3786-tinf-27-01-00059.pdf
+  
   https://www.scielo.br/pdf/pci/v19n1/10.pdf
