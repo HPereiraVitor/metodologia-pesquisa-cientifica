@@ -1,13 +1,27 @@
 # Metodologia-pesquisa-cientifica
 Projeto de Metodologia da Pesquisa Científica - Banco de Dados - Fatec
 
-# Introdução
+# 1. Introdução
   Nas últimas décadas, têm ocorrido transformações pontuais na sociedade, fruto do crescimento informacional, tecnológico e na facilidade de acesso aos diversos temas e dados. A biblioteca, como prestadora de informação para a comunidade acadêmica, é um setor que deve se adaptar às constantes mudanças, sem alterar seu intuito de auxiliar a geração de conhecimento, dando suporte às atividades de ensino e pesquisas no geral, além de ter como finalidade social, a preservação da produção intelectual em qualquer área, acrescentando conteúdo às atividades profissionais, pessoais e sociais, agregando assim valor a seus produtos.
 Durante toda história, as bibliotecas passaram por diversas transformações. No passado, as bibliotecas repletas de livros grandes e pesados eram administradas por monges e frequentadas por membros da Igreja. Com o decorrer do tempo, esse caráter restrito cedeu lugar a uma biblioteca fornecedora de informação em diferentes formatos, podendo ser acessada por qualquer pessoa. Nos dias de hoje, o uso da tecnologia para transferência de informações já é notado, por exemplo, em bibliotecas universitárias que na introdução das tecnologias de informação e comunicação trouxe alterações na rotina e no ambiente de trabalho do bibliotecário, porém ainda sim ocorre a queda na taxa de uso popular das bibliotecas por conta da busca virtual.
 De acordo com a pesquisa “Retratos da Leitura”, realizada pelo Ibope por encomenda do Instituto Pró-Livro, 44% não tem hábito de ler e 30% nunca compraram um livro sequer, porém com o passar dos anos é nítido o aumento no percentual de pessoas que usam de Internet como uso em tempo livre, cerca de 66% (Índice realizado em 2019) usam a internet em seu tempo livre, diferentemente de 2015 onde apenas 47% das pessoas gostavam de usar Redes sociais, pesquisas online e afins.
 Na Figura 1, um ponto alarmante destacado pela coordenadora da pesquisa Zoara Failla, é que, na comparação entre a população leitora e não-leitora, há uma diferença de variedade de atividades culturais que são realizadas no tempo livre. Os leitores apresentam maior diversidade de atividades, uma média de 7, contra 5 dos não-leitores.
 “Isso mostra como a leitura é também uma ferramenta de acesso à cultura” argumenta Zoara Failla.
-![https://www.cenpec.org.br/wp-content/uploads/2020/09/RETRATOS_LEITURA_2019_grafico_tempo_livre_nao_leitor.jpg](https://www.cenpec.org.br/wp-content/uploads/2020/09/RETRATOS_LEITURA_2019_grafico_tempo_livre_nao_leitor.jpg)
+
+## 1.1 Objetivo do trabalho
+  O objetivo geral deste trabalho é desenvolver uma plataforma com o propósito de catalogar todas os livros de uma biblioteca e controle de locação de livros e usuários.
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+•	Implementação do catálogo de livros
+•	Criar controle de usuários.
+•	Criar controle de unidades de locação
+
+## 1.2 Conteúdo do trabalho
+Este trabalho está dividido entre os capítulos, cujo conteúdo é sucintamente apresentado a seguir:
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+•	Capítulo 2 – Fundamentação Técnica
+	O capítulo expõe conceitos necessários para o entendimento deste trabalho.
+•	Capítulo 3 – Desenvolvimento
+	Este capítulo abordará detalhadamente a metodologia e enfoque experimental do 	desenvolvimento geral do trabalho.
 
 # Motivação
   Nas últimas décadas, têm ocorrido tranformações pontuais na sociedade, fruto do crescimento informacional, tecnológico e na facilidade de acesso aos diversos temas e dados. Biblioteca, como prestadoras de serviços para a comunidade acadêmica, é um setor que deve se adaptar às constantes mudanças, sem alterar seu intuinto de auxiliar a geração de conhecimento, dando suporte às atividades de ensino e pesquisas no geral, além de ter como finalidade social, a preservação da produção intelectual em qualquer área, acrescentando conteúdo às atividades profissionais, pessoais e sociais, agregando assim valor a seus produtos.
