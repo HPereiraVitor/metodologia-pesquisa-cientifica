@@ -48,3 +48,11 @@ através da disponibilidade de espaço e material para busca da socialização d
   https://revista.acbsc.org.br/racb/article/view/432/551
   
   https://brapci.inf.br/_repositorio/2010/06/pdf_91a4de70b3_0011214.pdf
+  
+  https://www.cenpec.org.br/tematicas/retratos-da-leitura-no-brasil-por-que-estamos-perdendo-leitores#:~:text=No%20Brasil%2C%20existem%20cerca%20de,setembro%2C%20com%20dados%20de%202019.
+  
+  https://www.scielo.br/j/ci/a/jsfWR4Y676TFQHRqkqz7LZq/?lang=pt
+  
+  https://prolivro.org.br/wp-content/uploads/2020/09/5a_edicao_Retratos_da_Leitura_no_Brasil_IPL-compactado.pdf
+  
+  https://www.aedb.br/seget/arquivos/artigos18/14126343.pdf
